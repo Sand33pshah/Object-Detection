@@ -1,0 +1,23 @@
+https://gist.github.com/dkurt/54a8e8b51beb3bd3f770b79e56927bd7           
+
+For ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt
+
+
+https://github.com/pjreddie/darknet/blob/master/data/coco.names
+
+For coco.names
+
+
+https://github.com/datitran/object_detector_app/blob/master/object_detection/ssd_mobilenet_v1_coco_11_06_2017/frozen_inference_graph.pb
+
+For frozen_inference_graph
+
+
+https://www.youtube.com/watch?v=HXDD7-EnGBY&t=86s
+
+For youtube video
+
+
+
+https://github.com/opencv/opencv/wiki/TensorFlow-Object-Detection-API
+Master link
